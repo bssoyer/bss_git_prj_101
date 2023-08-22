@@ -1,1 +1,4 @@
 Bu bir ikinci repo açma ve ilk dosyayı koyma işlemidir.
+Eklenen yeni cümle: Bugün bölüm ikiyi tamamladım.
+BSS.
+
